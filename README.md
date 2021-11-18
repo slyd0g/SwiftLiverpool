@@ -7,7 +7,7 @@
 This tool leverages the CoreLocation API on macOS to enumerate Location Services data.
 
 ## Usage
-- Dump global TCC.db as a pseudo table
+- Analyze availability of Location Services and dump location, speed, and course data if available
     - ```./SwiftLiverpool```
 
 ## References
